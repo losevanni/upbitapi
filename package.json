@@ -1,0 +1,23 @@
+{
+  "name": "upbitapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^5.0.8",
+    "axios": "^1.4.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0",
+    "jwt-cracker": "^3.0.0",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13"
+  }
+}
